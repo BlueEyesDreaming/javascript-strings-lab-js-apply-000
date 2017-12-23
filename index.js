@@ -8,4 +8,6 @@ var topic = "space";
 
 var conversation = `${topic}`;
 
- function greeting = 'Hello, everybody!'
+ function greeting() {
+   return 'Hello, everybody!'
+ }
